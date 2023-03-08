@@ -1,2 +1,2 @@
 # HTML_CSS
- bal bla bla 
+Estudo de front end baseado no CursoEmVideo
